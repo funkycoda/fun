@@ -1,0 +1,713 @@
+2012-02-29 07:21:49 Error: [MissingControllerException] Controller class ~ajayController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Users/ajay/Sites/pages/fun/flickr/index.php(40): require('/Users/ajay/Sit...')
+#2 {main}
+2012-03-01 00:05:40 Error: [MissingControllerException] Controller class ~ajayController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Users/ajay/Sites/pages/fun/flickr/index.php(40): require('/Users/ajay/Sit...')
+#2 {main}
+2012-03-01 05:01:11 Error: [MissingControllerException] Controller class ~ajayController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Users/ajay/Sites/pages/fun/flickr/index.php(40): require('/Users/ajay/Sit...')
+#2 {main}
+2012-03-01 05:01:13 Error: [MissingControllerException] Controller class ~ajayController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Users/ajay/Sites/pages/fun/flickr/index.php(40): require('/Users/ajay/Sit...')
+#2 {main}
+2012-03-01 05:05:47 Error: [MissingControllerException] Controller class ~ajayController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Users/ajay/Sites/pages/fun/flickr/index.php(40): require('/Users/ajay/Sit...')
+#2 {main}
+2012-03-01 13:30:30 Error: [MissingControllerException] Controller class ~ajayController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 /Users/ajay/Sites/pages/fun/flickr/index.php(40): require('/Users/ajay/Sit...')
+#2 {main}
+2012-03-01 15:16:50 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:17:24 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:17:27 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:18:43 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:18:47 Error: [MissingControllerException] Controller class IndexController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:19:02 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:19:07 Error: [MissingControllerException] Controller class IndexController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:19:11 Error: [MissingControllerException] Controller class FlerchController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:30:03 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Flearch/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(FlearchController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-01 15:34:24 Error: [MissingControllerException] Controller class SearchController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:34:30 Error: [MissingControllerException] Controller class SearchController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:34:31 Error: [MissingControllerException] Controller class SearchController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-01 15:51:28 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 15:53:54 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 15:55:10 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:02:53 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:06:44 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:18:21 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:20:05 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:22:35 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:23:10 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:23:39 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:24:24 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:25:25 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:25:41 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:25:47 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:26:00 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:26:07 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:27:56 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:28:58 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:29:12 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:29:28 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:29:35 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:29:44 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:30:16 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:30:42 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:31:50 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:32:05 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:32:11 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:32:45 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:33:25 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:33:33 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:34:16 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:34:25 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:34:33 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:34:44 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:42:35 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:42:37 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:44:07 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:44:23 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:44:39 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-01 16:44:59 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-07 04:38:39 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 04:41:19 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 04:44:35 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 04:44:36 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:05:00 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:05:02 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:06:16 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:14:50 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:14:54 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:15:14 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:15:41 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:15:44 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:15:45 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:15:57 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:16:00 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 05:16:59 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:17:02 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 05:19:08 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:22:57 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:22:59 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:23:03 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:23:12 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 05:31:23 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:33:47 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:34:06 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:34:08 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:34:15 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:34:16 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:34:24 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:34:56 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:36:12 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:36:21 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:36:22 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:36:24 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:36:31 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 05:36:37 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:44:34 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:44:38 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:44:47 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:45:13 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:45:14 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:45:14 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:45:23 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:47:55 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 08:52:54 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 09:03:30 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 09:03:34 Error: [MissingControllerException] Controller class AdminController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 09:03:39 Error: [MissingActionException] Action SearchController::admin() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-07 09:03:39 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-07 09:03:39 Error: [MissingActionException] Action SearchController::favicon.ico() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-07 09:03:49 Error: [MissingControllerException] Controller class AdminController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 09:04:27 Error: [MissingActionException] Action SearchController::admin() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-07 09:04:30 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 09:04:33 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 09:04:40 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 09:09:11 Error: [MissingActionException] Action SearchController::query() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(SearchController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-07 11:34:44 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:34:51 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:35:46 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:45:00 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:46:01 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:46:01 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:46:09 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:46:25 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:46:40 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:46:52 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:46:54 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:47:35 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:47:53 Error: [MissingControllerException] Controller class RainxThumb.pngController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:48:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 11:48:29 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 13:21:12 Error: [MissingControllerException] Controller class GoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 13:21:12 Error: [MissingControllerException] Controller class GoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 13:21:13 Error: [MissingControllerException] Controller class GoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 13:24:52 Error: [MissingActionException] Action IndexController::search() could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-07 13:53:59 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/searchjson.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 13:54:08 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/searchjson.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 13:55:22 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/searchjson.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 13:55:51 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 13:56:10 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 14:03:32 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 14:04:06 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 14:06:13 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 14:06:23 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 14:06:36 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 14:06:48 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/search.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 14:30:03 Error: [MissingControllerException] Controller class DoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 14:30:15 Error: [MissingControllerException] Controller class DoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 14:30:58 Error: [MissingControllerException] Controller class DoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 14:31:15 Error: [MissingControllerException] Controller class DoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 14:45:33 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-07 15:43:14 Error: [MissingControllerException] Controller class GoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-07 15:43:14 Error: [MissingControllerException] Controller class GoController could not be found.
+#0 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-08 03:58:33 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 03:58:35 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 03:59:31 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 03:59:47 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:00:02 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:00:15 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:00:30 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:00:33 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:00:53 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:01:22 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:03:27 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:04:26 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:09:02 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-03-08 04:09:06 Error: [MissingViewException] View file "/Users/ajay/Sites/pages/fun/flickr/app/View/Index/json/index.ctp" is missing.
+#0 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/View/View.php(360): View->_getViewFileName(NULL)
+#1 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(111): Controller->render()
+#3 /Users/ajay/Sites/pages/fun/flickr/lib/Cake/Routing/Dispatcher.php(86): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/ajay/Sites/pages/fun/flickr/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
